@@ -1,26 +1,27 @@
-# 📁 Mon Projet GitHub
+# 📁 Site Météo Étudiant
 
-Bienvenue sur le dépôt **Mhdhdhdhdhon Projet GitHub** !  
-Ce projet a été créé pour expérimenter, apprendre et partager du code et des idées.
+Bienvenue dans ce guide d’utilisation du Site Météo Étudiant, réalisé par Noah Ruffinoni, Hamza et Jules dans le cadre de notre projet.
+Ce site permet aux utilisateurs de consulter la météo des différentes villes et d’explorer plusieurs fonctionnalités étudiantes.
 
-## 📌 Description
 
-Ce dépôt contient :
-- Des fichiers de code
-- Des ressources
-- Des exemples de projets personnels et d'école
+## 📌Accéder à l’application
+Vous pouvez accéder à notre site météo via le lien suivant :
 
-L'objectif est de centraliser mes projets et de progresser en collaborant et en testant différentes technologies.
+👉 Accéder à l’application météo étudiant
 
-## 🚀 Technologies utilisées
+## 🎥 Démonstration vidéo
 
-- HTML / CSS / JavaScript
-- Python
-- Bash / Linux
-- SQL / Access
-- Réseaux (Linux, Raspberry Pi)
+Pour voir comment fonctionne le site et découvrir ses fonctionnalités :
 
-## 📂 Structure du projet
+▶️ Voir la vidéo de démonstration
+
+
+## 👥 Équipe du projet
+- Noah Ruffinoni LK2
+
+- Hamza Madad LK1
+
+- Jules Minghi LK1
 
 
 ## 📄 Accès aux pages  
