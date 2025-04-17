@@ -32,5 +32,5 @@ Pour voir des test de comment fonctionne le site et découvrir ses fonctionnalit
 
 - 📙 [Student Weather Site Access Guide](pages/anglais/Student_Weather_Site_Access_Guide.pdf)  
 - 📙 [USER GUIDE for Website](pages/anglais/USER_GUIDE_for_Website.pdf)
-- 📙 [User Guide for the Replit Platform](pages/francais/Guide_d’utilisation_de_notre_site.pdf)
+- 📙 [User Guide for the Replit Platform](pages/anglais/User_Guide_for_the_Replit_Platform.pdf)
 
