@@ -29,7 +29,7 @@ L'objectif est de centraliser mes projets et de progresser en collaborant et en 
 - 📘 [Guide replit Français](pages/francais/Guide_replit_Français.html)
 - 📘 [Guide d'acces au site Français](pages/francais/acces_au_site_Français.html)
 
-- 📙 [guide d'utilisation Anglais](pages/anglais/guide_d'utilisation_Anglais.html)  
+- 📙 [Student Weather Site Access Guide](pages/anglais/Student_Weather_Site_Access_Guide.pdf)  
 - 📙 [Guide replit Anglais](pages/anglais/replit_Anglais.html)
 - 📙 [Guide d'acces au site Anglais](pages/anglais/acces_au_site_Anglais.html)
 
