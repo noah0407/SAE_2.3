@@ -9,6 +9,8 @@ Vous pouvez accéder à notre site météo via le lien suivant :
 
 👉 [Accéder à l’application météo étudiant](https://replit.com/@ruffinoninoah/Projetgroupe10?v=1)
 
+👉 Accéder à la présentation
+
 ## 🎥 Démonstration vidéo
 Pour voir des test de comment fonctionne le site et découvrir ses fonctionnalités :
 
