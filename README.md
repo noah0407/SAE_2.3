@@ -25,7 +25,7 @@ L'objectif est de centraliser mes projets et de progresser en collaborant et en 
 
 ## 📄 Accès aux pages  
 
-- 📘 [Guide d'utilisation Français](pages/francais/Guide_d'utilisation_Français.html)  
+- 📘 [Guide d'accès au site météo étudiant](pages/francais/Guide_d'accès_au_site_météo_étudiant.pdf)  
 - 📘 [Guide replit Français](pages/francais/Guidereplit_Français.html)
 - 📘 [Guide d'accès au site météo étudiant](pages/francais/Guide_d'accès_au_site_météo_étudiant.pdf)
 
