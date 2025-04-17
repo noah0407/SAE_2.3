@@ -14,7 +14,8 @@ https://youtu.be/onMNk8q2Nq4
 
 Pour voir des test de comment fonctionne le site et découvrir ses fonctionnalités :
 
-▶️ <iframe width="560" height="315" src="[https://www.youtube.com/embed/ID_VIDEO](https://youtu.be/onMNk8q2Nq4)" frameborder="0" allowfullscreen></iframe>
+▶️ 🎥 Démonstration vidéo  
+[![Voir la vidéo ici](https://img.youtube.com/vi/onMNk8q2Nq4/0.jpg)](https://youtu.be/onMNk8q2Nq4)
 
 
 ## 👥 Équipe du projet
