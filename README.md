@@ -25,9 +25,10 @@ L'objectif est de centraliser mes projets et de progresser en collaborant et en 
 
 ## 📄 Accès aux pages  
 
-- 📘 [guide d'utilisation Français](pages/francais/guide_d'utilisation_Français.html)  
+- 📘 [Guide d'utilisation Français](pages/francais/Guide_d'utilisation_Français.html)  
 - 📘 [Guide replit Français](pages/francais/Guide_replit_Français.html)
-- 📘 [Guide d'acces au site Français](pages/francais/acces_au_site_Français.html)  
+- 📘 [Guide d'acces au site Français](pages/francais/acces_au_site_Français.html)
+
 - 📙 [guide d'utilisation Anglais](pages/anglais/guide_d'utilisation_Anglais.html)  
 - 📙 [Guide replit Anglais](pages/anglais/replit_Anglais.html)
 - 📙 [Guide d'acces au site Anglais](pages/anglais/acces_au_site_Anglais.html)
