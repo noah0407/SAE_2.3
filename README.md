@@ -10,13 +10,11 @@ Vous pouvez accéder à notre site météo via le lien suivant :
 👉 [Accéder à l’application météo étudiant](https://replit.com/@ruffinoninoah/Projetgroupe10?v=1)
 
 ## 🎥 Démonstration vidéo
-https://youtu.be/onMNk8q2Nq4
-
 Pour voir des test de comment fonctionne le site et découvrir ses fonctionnalités :
 
 ▶️ 🎥 Démonstration vidéo  
-[![Voir la vidéo ici](https://img.youtube.com/vi/onMNk8q2Nq4/0.jpg)](https://youtu.be/onMNk8q2Nq4)
-
+[![cliquer ](https://img.youtube.com/vi/onMNk8q2Nq4/0.jpg)](https://youtu.be/onMNk8q2Nq4)
+https://youtu.be/onMNk8q2Nq4
 
 ## 👥 Équipe du projet
 - Noah Ruffinoni LK2
