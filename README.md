@@ -11,7 +11,7 @@ Vous pouvez accéder à notre site météo via le lien suivant :
 
 ## 🎥 Démonstration vidéo
 
-Pour voir comment fonctionne le site et découvrir ses fonctionnalités :
+Pour voir des test de comment fonctionne le site et découvrir ses fonctionnalités :
 
 ▶️ Voir la vidéo de démonstration
 
