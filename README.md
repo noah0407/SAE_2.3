@@ -28,7 +28,7 @@ Pour voir des test de comment fonctionne le site et découvrir ses fonctionnalit
 
 - 📘 [Guide d'accès au site météo étudiant](pages/francais/Guide_d'accès_au_site_météo_étudiant.pdf)  
 - 📘 [Guide d’utilisation de la plateforme Replit](pages/francais/Guide_d’utilisation_de_la_plateforme_Replit.pdf)
-- 📘 [Guide d'accès au site météo étudiant](pages/francais/Guide_d'accès_au_site_météo_étudiant.pdf)
+- 📘 [Guide d'accès au site météo étudiant](pages/francais/Guide_d’utilisation_de_notre_site.pdf)
 
 - 📙 [Student Weather Site Access Guide](pages/anglais/Student_Weather_Site_Access_Guide.pdf)  
 - 📙 [USER GUIDE for Website](pages/anglais/USER_GUIDE_for_Website.pdf)
