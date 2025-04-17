@@ -12,9 +12,10 @@ Vous pouvez accéder à notre site météo via le lien suivant :
 ## 🎥 Démonstration vidéo
 Pour voir des test de comment fonctionne le site et découvrir ses fonctionnalités :
 
-▶️ 🎥 Démonstration vidéo  
+▶️ 🎥 Démonstration vidéo ( cliquer sur la miniature ou sur le lien )
+    https://youtu.be/onMNk8q2Nq4
 [![cliquer ](https://img.youtube.com/vi/onMNk8q2Nq4/0.jpg)](https://youtu.be/onMNk8q2Nq4)
-https://youtu.be/onMNk8q2Nq4
+
 
 ## 👥 Équipe du projet
 - Noah Ruffinoni LK2
