@@ -27,5 +27,5 @@ L'objectif est de centraliser mes projets et de progresser en collaborant et en 
 
 - 📘 [Page 1 Français](pages/francais/page1.html)  
 - 📘 [Page 2 Français](pages/francais/page2.html)  
-- 📙 [Page 1 Anglais](guide d'utilisation/anglais/page1.html)  
+- 📙 [guide d'utilisation](page/anglais/page1.html)  
 - 📙 [Page 2 Anglais](pages/anglais/page2.html)
